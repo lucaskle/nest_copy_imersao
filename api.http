@@ -25,4 +25,4 @@ Content-Type: application/json
 GET http://localhost:3000/routes
 
 ###
-GET http://localhost:3000/routes/675874a3683a4f2ee793ac88
+GET http://localhost:3000/routes/{route_id}
